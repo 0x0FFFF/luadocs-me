@@ -393,7 +393,7 @@ local payload = [[{
             "icon_url": "https://avatarfiles.alphacoders.com/334/334449.png"
         },
         "footer": {
-            "text": "sended from growpai",
+            "text": "sended from !",
             "icon_url": "https://copypastatext.com/wp-content/uploads/2021/12/index-14.jpg"
         },
         "timestamp": "2023-02-14T17:00:00.000Z"
